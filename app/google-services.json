@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986744897342",
+    "firebase_url": "https://fir-ventas-40bd2.firebaseio.com",
+    "project_id": "fir-ventas-40bd2",
+    "storage_bucket": "fir-ventas-40bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986744897342:android:b73fa305530809514f766f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986744897342-0dr2kucuekesq700515a45j8g4mbri3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbbHtFAjBjFe1vqrvwqNuaojdlr4QYG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986744897342-0dr2kucuekesq700515a45j8g4mbri3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
